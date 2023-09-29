@@ -7,4 +7,4 @@ Analyse Telangana’s growth among different sectors quantitatively and provide 
 
 ## Challenge Link -https://codebasics.io/challenge/codebasics-resume-project-challenge/10
 
-## solution Link to the full video explaination -https://drive.google.com/file/d/1M6rj0tWHr3GKazNSyRhsqObP_U28TZcX/view?usp=sharing
+## Solution:  Link to the full video explaination -https://drive.google.com/file/d/1M6rj0tWHr3GKazNSyRhsqObP_U28TZcX/view?usp=sharing
